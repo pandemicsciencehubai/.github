@@ -1,8 +1,8 @@
 <br />
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/pandemicsciencehubai/shared-files/blob/main/img/logo/PSH.png">
-    <img alt="PSH Logo" width="100" height="100"src="https://github.com/pandemicsciencehubai/shared-files/tree/blob/img/logo/PSH.png">
+    <source media="(prefers-color-scheme: light)" srcset="[https://github.com/pandemicsciencehubai/shared-files/blob/main/img/logo/PSH.png](https://github.com/pandemicsciencehubai/.github/img/PSH.png)">
+    <img alt="PSH Logo" width="100" height="100"src="https://github.com/pandemicsciencehubai/.github/img/PSH.png">
   </picture>
   <h1>
     Baillie-Gifford Pandemic Science Hub AI
